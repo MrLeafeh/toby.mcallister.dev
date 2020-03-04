@@ -49,7 +49,7 @@ body {
 }
 
 .page-header {
-  background-image: url(/media/bg.jpg);
+  background-image: url(/media/bg.webp);
   margin-top: -60px;
   background-attachment: fixed;
   background-position: center;
