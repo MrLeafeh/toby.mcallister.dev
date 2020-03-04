@@ -1,0 +1,100 @@
+div {
+  display: block;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: 0 auto;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #333;
+}
+
+.nav-blue {
+  color: #fff;
+  background-color: #00356a;
+}
+
+.nav-bar {
+  text-align: center;
+  padding: 15px;
+}
+
+.nav-bar a {
+  color: #337ab7;
+  text-decoration: none;
+}
+
+.nav-bar h2 {
+  font-size: 30px;
+  font-family: "Lato", sans-serif;
+  display: inline;
+  padding: 10px;
+  color: #b3b3b3;
+  font-weight: 500;
+  line-height: 1.1;
+}
+
+.container-nav-bar {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.page-header {
+  background-image: url(/media/bg.jpg);
+  margin-top: -60px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
+.page-header .header-name-text {
+  width: 100%;
+  height: 50%;
+  text-align: center;
+}
+.page-header .header-name-text h1 {
+  padding-top: 14%;
+  font-family: "Lato", sans-serif;
+  font-size: 90px;
+  color: #333;
+}
+.page-header .header-name-text h2 {
+  font-size: 26px;
+  font-weight: 100;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.about {
+  padding-top: 30px;
+}
+.about p {
+  font-size: 26px;
+}
+.about h1 {
+  font-size: 46px;
+}
+
+.about-container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.container .about-container {
+  padding: 50px;
+}
