@@ -15,7 +15,6 @@ body {
   width: 100%;
   height: 100%;
   font-size: 14px;
-  line-height: 1.42857143;
   color: #333;
 }
 
@@ -68,8 +67,9 @@ body {
   font-family: "Lato", sans-serif;
   font-size: 90px;
   color: #333;
+  margin-block-end: 0;
 }
-.page-header .header-name-text h2 {
+.h2-weight {
   font-size: 26px;
   font-weight: 100;
 }
@@ -99,3 +99,5 @@ a:hover {
 .container .about-container {
   padding: 50px;
 }
+
+
