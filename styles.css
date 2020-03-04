@@ -74,10 +74,6 @@ body {
   font-weight: 100;
 }
 
-.text-center {
-  text-align: center;
-}
-
 .about {
   padding-top: 30px;
 }
@@ -86,6 +82,7 @@ body {
 }
 .about h1 {
   font-size: 46px;
+  text-align: center;
 }
 
 .about-container {
